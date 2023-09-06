@@ -28,7 +28,7 @@
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a>
   <a href="https://qaiyyum007.github.io" target="_blank">
-     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
+     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> 
   </a>
 </div>
 
@@ -57,7 +57,8 @@
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
 <div align=center>
-  <img width=390 src="https://github-readme-stats.vercel.app/api?username=qaiyyum007&show_icons=true&locale=en" alt="streak stats"/> 
+  <img width=390 src="https://github-readme-stats.vercel.app/api?username=qaiyyum007&layout=compact&theme=vision-friendly-dark"/> 
+   <img width=390 src="https://github-readme-stats.vercel.app/api/top-langs/?username=qaiyyum007&layout=compact&theme=vision-friendly-dark"/>
   <br/>
   <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=qaiyyum007&" alt="qaiyyum007" /></p>
 </div>
