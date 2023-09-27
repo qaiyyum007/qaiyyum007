@@ -46,19 +46,8 @@
 
 <hr/>
 
-<h2 align="center">⚡ Stats ⚡</h2>
-<br>
-<div align=center>
-  <img width=390 src="https://github-readme-stats.vercel.app/api?username=qaiyyum007&layout=compact&theme=vision-friendly-dark"/> 
-   <img width=390 src="https://github-readme-stats.vercel.app/api/top-langs/?username=qaiyyum007&layout=compact&theme=vision-friendly-dark"/>
-  <br/>
-  <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=qaiyyum007&" alt="qaiyyum007" /></p>
-</div>
-<br/><br/>
-<hr/>
 
-<h3 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Thanks+for+visiting!+✌️;+Shoot+me+a+message+on+Linkedin!;I'm+always+down+to+collab+:)">
-</h3>
+
+
 
 <br/>
