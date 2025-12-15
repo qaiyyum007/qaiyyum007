@@ -14,7 +14,7 @@
  
  🌱 I’m currently learning **Angular, Nestjs,JavaScript **
 
- 💬 Ask me about **Node.js, Angular, Nestjs, MongoDB...**
+ 💬 Ask me about **Node.js, Angular, Nestjs, TypeORm...**
 
  ⚡ Fun fact **Game of Thrones Night's Watch cloaks are made from Ikea rugs**
  
